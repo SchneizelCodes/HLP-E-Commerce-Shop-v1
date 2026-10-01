@@ -1,7 +1,7 @@
 
   # E-commerce Website Design
 
-  This is a code bundle for E-commerce Website Design. The original project is available at https://www.figma.com/design/wcXfElXbkEOMMP5EjX3dSB/E-commerce-Website-Design.
+  This is a code bundle for E-commerce Website Design. The original project is available at https://hlpshop.vercel.app
 
   ## Running the code
 
