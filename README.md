@@ -8,4 +8,6 @@
   Run `npm i` to install the dependencies.
 
   Run `npm run dev` to start the development server.
-  
+
+  FULL COMPLETE CODE (IF INTERESTED) 
+  DM @joshuamanuelcamacho1@gmail.com
